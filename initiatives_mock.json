@@ -1,0 +1,62 @@
+[
+  {
+    "id": "INIT-001",
+    "name": "Plataforma Móvil Inspecciones HSE",
+    "domain": "HSE",
+    "strategic_value": 4,
+    "tech_complexity": 3,
+    "requires_erp_integration": true,
+    "sensitive_data": false,
+    "has_qa_plan": true
+  },
+  {
+    "id": "INIT-002",
+    "name": "Módulo de Conciliación Fiscal Automatizada",
+    "domain": "Finance",
+    "strategic_value": 5,
+    "tech_complexity": 4,
+    "requires_erp_integration": true,
+    "sensitive_data": true,
+    "has_qa_plan": true
+  },
+  {
+    "id": "INIT-003",
+    "name": "Portal del Empleado & Gestión del Desempeño",
+    "domain": "People",
+    "strategic_value": 3,
+    "tech_complexity": 2,
+    "requires_erp_integration": false,
+    "sensitive_data": true,
+    "has_qa_plan": false
+  },
+  {
+    "id": "INIT-004",
+    "name": "Canal de Denuncias Anónimas (Whistleblowing)",
+    "domain": "Compliance",
+    "strategic_value": 5,
+    "tech_complexity": 3,
+    "requires_erp_integration": false,
+    "sensitive_data": true,
+    "has_qa_plan": true
+  },
+  {
+    "id": "INIT-005",
+    "name": "Dashboard de Control de Emisiones de Carbono",
+    "domain": "HSE",
+    "strategic_value": 4,
+    "tech_complexity": 4,
+    "requires_erp_integration": true,
+    "sensitive_data": false,
+    "has_qa_plan": false
+  },
+  {
+    "id": "INIT-006",
+    "name": "Digitalización de Gastos de Viaje y Dietas",
+    "domain": "Finance",
+    "strategic_value": 3,
+    "tech_complexity": 2,
+    "requires_erp_integration": true,
+    "sensitive_data": true,
+    "has_qa_plan": true
+  }
+]
